@@ -7,8 +7,8 @@ In this exercise i implemented a simple slack bot, that can send info about weat
 
 ## Deployment
 
-To run a bot from your heroku app follow steps below:
-1)Download and install the Heroku CLI. Create an app and clone the repository
+To run a bot from your heroku app follow steps below.
+1)Download and install the Heroku CLI. Create an app and clone the repository.
 2)Deploy this repo to your heroku repo. Make some changes to the code you just cloned and deploy them to Heroku using Git.
 $ git add .
 $ git commit -am "make it better"
